@@ -1,0 +1,17 @@
+/*Global Classess*/
+
+button,
+button:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.btn-primary:hover,
+.btn-danger:hover,
+.btn-warning:hover,
+.is-checked:hover,
+.btn-second:hover {
+    color: white;
+    background: $color-primary;
+    transform: scale(1.1);
+}

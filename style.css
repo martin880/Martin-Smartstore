@@ -142,6 +142,7 @@ button:focus {
 #special-price .grid .grid-item {
   margin-right: 1.2rem;
   margin-top: 1rem;
+  position: absolute;
 }
 
 /*# sourceMappingURL=style.css.map */
